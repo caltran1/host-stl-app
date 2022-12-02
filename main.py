@@ -66,7 +66,7 @@ kpi1.metric(
 )
 
 kpi2.metric(
-    label="# Sales Last Month #️⃣",
+    label="Number of Sales Last Month #⃣",
     value=sales
 )
 
