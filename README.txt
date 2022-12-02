@@ -1,6 +1,6 @@
 Streamlit Dashboard Project
 
-https://caltran1-heroku-stl-main-vhf6kv.streamlitapp.com/#dashboard-home/data
+https://caltran1-host-stl-app-main-9f6nor.streamlit.app/
 
 Summary
 Sales data for vending machine sales and is from https://www.kaggle.com/datasets/awesomeasingh/vending-machine-sales?resource=download
